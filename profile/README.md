@@ -1,8 +1,9 @@
-# Eco-Vault 🌿
+<h1 align="center"> Eco Vault - The First Green Smart Contract Wallet 🌿 </h1>
 
-- "EcoVault" is smart contract wallet using the Safe SDK that can calculate a user's carbon footprint and offset it by buying carbon credits from verified sources. 
-- The wallet will also include a feature for users to donate a portion of their transactions to a charity of their choice, creating a more transparent and accountable donation process. 
-- This solution will provide a user-friendly and secure way for users to manage their cryptocurrency while contributing to environmental and social causes.
+<p align="center"> <img src="https://user-images.githubusercontent.com/43074241/224484638-9cf89030-577e-447b-a220-83c1e8c5239f.png"/> </p>
+
+
+"EcoVault" is smart contract wallet using the Safe SDK that can calculate a user's carbon footprint and offset it by buying carbon credits from verified sources. It will also include a feature for users to donate a portion of their transactions to a charity of their choice, creating a more transparent and accountable donation process. It will provide a user-friendly and secure way for users to manage their cryptocurrency while contributing to environmental and social causes.
 
 
 ## Problem we solves
